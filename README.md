@@ -1,4 +1,5 @@
 # Coffee Sales Analysis - Tailored KPI Report
+![Dashboard](https://github.com/user-attachments/assets/1accb779-ca8d-46bf-80dd-cb1476c5a5e6)
 
 ## Project Background
 
