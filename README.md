@@ -47,7 +47,7 @@ The analysis highlights key sales trends, customer behavior, and product perform
 
 ## Key Questions for Stakeholders Prior to Project Advancement
 
-> To align the analysis with organizational goals, these are key questions for stakeholders:
+> These are some questions I would've loved to ask stakeholders/project leads to learn more about their own needs/existing knowledge on the objective at hand:
 
 - Are there specific KPIs that should be prioritized (e.g., profit margins, regional growth)?
 - Should the focus be on volume sales or profitability for strategic decisions?
