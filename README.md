@@ -2,7 +2,7 @@
 
 ## Project Background
 
-As a Senior Data Analyst, I was tasked with creating an insightful KPI report for the executive team of a global coffee distributor. **This report analyzes sales performance data from 2019 to 2021 across various regions, customer demographics, and product categories, comprising over 28,000 records**. The primary goal was to identify trends, top-performing products, regional contributions, and customer behavior to inform data-driven strategic decisions.
+As a Freelance Data Analyst, I was tasked with creating an insightful KPI report for the executive team of a global coffee distributor. **This report analyzes sales performance data from 2019 to 2021 across various regions, customer demographics, and product categories, comprising over 28,000 records**. The primary goal was to identify trends, top-performing products, regional contributions, and customer behavior to inform data-driven strategic decisions.
 
 ## Executive Summary
 
