@@ -27,19 +27,20 @@ The analysis highlights key sales trends, customer behavior, and product perform
 - **United Kingdom**: Generated ~$2,798, with balanced preferences across product categories.
 
 ### **Top 5 Customers**
-1. **Terri Farra**: Top customer with $289.11 in sales.
-2. **Nealson Cuttler**: Close second, spending $281.68.
-3. **Don Flintiff**: Contributed $278.01.
-4. Remaining top spenders showed similar purchasing behavior, favoring larger, higher-priced products.
+1. **Allis Willmore**: Top customer with spending $317.
+2. **Brenn Dundredge**: Top 2 with spending $307
+3. **Terri Farra**: Top 3 with spending $289
+4. **Nealson Cuttler**: Top 4 with spending $282.
+5. **Don Flintiff**: The last one with spending $278.
 
 ---
 
 ## Recommendations
 
-1. **Leverage Seasonal Trends**: Capitalize on high-demand months (January, December) with promotions and product bundling.
+1. **Leverage Seasonal Trends**: Capitalize on high-demand months (October, September in avg) with promotions and product bundling.
 2. **Increase Inventory of High-Profit Products**: Focus on larger-sized Arabica products, especially light roast, to maximize profitability.
 3. **Regional Marketing Strategy**: Develop targeted campaigns for Ireland and the United Kingdom to increase engagement and tap into existing preferences.
-4. **Customer Retention Programs**: Introduce loyalty programs for top customers to encourage repeat purchases and foster brand loyalty.
+4. **Customer Retention Programs**: Introduce loyalty programs for top customers who have not yet joined to encourage repeat purchases and foster brand loyalty.
 5. **Expand Uninsured Customer Base**: Provide flexible payment options or discounts in regions with uninsured high spenders to boost sales.
 
 ---
